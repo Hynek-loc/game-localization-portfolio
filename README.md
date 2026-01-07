@@ -10,7 +10,7 @@ portfolio and professional demonstration purposes only.
 
 The content is manually selected and partially transcribed to demonstrate:
 - narrative localization
-- branching dialogue handling
+- dialogue handling
 - UI/system text translation
 - tone and register consistency
 
