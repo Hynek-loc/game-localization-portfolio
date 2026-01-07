@@ -1,0 +1,305 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: BG3 Nautiloid Portfolio Sample\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-01-05 00:00+0000\n"
+"PO-Revision-Date: 2026-01-07 16:41+0100\n"
+"Last-Translator: Hynek Dlouhý\n"
+"Language-Team: Czech\n"
+"Language: cs\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.8\n"
+
+#. NAR_NAUT_001 | Narration
+msgid "The blood in your head thrums and pounds."
+msgstr "Krev v hlavě ti pulzuje a buší."
+
+#. NAR_NAUT_002 | Narration
+msgid "Thet pounding blood obscures who you are. An overwhelming loss of memory."
+msgstr "Ta bušící krev zakrývá kým jsi. Ohromná ztráta paměti."
+
+#. NAR_NAUT_003 | Narration
+msgid "How you ended up amidst these hellish flames is just as hidden."
+msgstr "Jak jsi se ocitl uprostřed těchto pekelných plamenů, je stejně záhadné."
+
+#. NAR_NAUT_004 | Narration
+msgid "You have nothing in your skull, besides your name and a headache. But you are in danger."
+msgstr "V hlavě nemáš nic, krom svého jména a bolesti. Ale jsi v nebezpečí."
+
+#. UI_NAUT_001 | UI
+msgid "Select"
+msgstr "Vybrat"
+
+#. UI_NAUT_002 | UI
+msgid "Dialogue History"
+msgstr "Historie Rozhovorů"
+
+#. DLG_NAUT_001_PCHO | Player choice
+msgid "Take a deep breath, shake your head and start anew."
+msgstr "Zhluboka se nadechni, zavrť hlavou a začni znovu."
+
+#. NAR_NAUT_005 | Narration
+msgid "Time to get out of here, and then you can shed light on the dark of the matter of yourself. "
+msgstr "Je čas se odtud dostat, a pak můžeš osvětlit temnou stránku své vlastní osoby. "
+
+#. DLG_NAUT_001_PCHA | Player character
+msgid "Ngh. My head..."
+msgstr "Ngh. Moje hlava..."
+
+#. DLG_NAUT_002_PCHA | Player character
+msgid "Dead. Good."
+msgstr "Mrtvý. Dobře."
+
+#. UI_NAUT_003 | UI
+msgid "Use"
+msgstr "Použít"
+
+#. NAR_NAUT_006 | Narration
+msgid "This is the pool that thing came from-the parasite now writhling behind your eye."
+msgstr "Tohle je to jezírko, ze kterého ta věc vylezla – ten parazit, co se ti teď svíjí za okem."
+
+#. DLG_NAUT_002_PCHO | Player choice
+msgid "Leave."
+msgstr "Odejít."
+
+#. TUT_NAUT_001 | Tutorial
+msgid "Restoration pods"
+msgstr "Obnovovací Moduly"
+
+#. TUT_NAUT_002 | Tutorial
+msgid "You can use a restoration pod to fully recover your hit points and spell slots if you are hurt."
+msgstr "Pokud jste zraněni, můžete použít Obnovovací Modul k plnému obnovení životů a pozic pro kouzla."
+
+#. DLG_NAUT_003_PCHA | Player character
+msgid "Odd. I fell.. better."
+msgstr "Zvláštní. Cítím se.. lépe."
+
+#. UI_NAUT_004 | UI
+msgid "Open"
+msgstr "Otevřít"
+
+#. UI_NAUT_005 | UI
+msgid "Close"
+msgstr "Zavřít"
+
+#. UI_NAUT_006 | UI
+msgid "Loot"
+msgstr "Prohledat"
+
+#. UI_NAUT_007 | UI
+msgid "Read"
+msgstr "Přečíst"
+
+#. NAR_NAUT_007 | Narration
+msgid "Images of goblins- their habits and histories- flash into your mind."
+msgstr "V hlavě se ti promítají obrazy goblinů – jejich zvyky a historie."
+
+#. NAR_NAUT_008 | Narration
+msgid "A chematic of a nautiloid flashes into your mind. Nerves, sinews, as much living being as ship."
+msgstr "V hlavě se ti vybaví nákresy nautiloida. Nervy, šlachy, stejně tak živá bytost jako loď."
+
+#. NAR_NAUT_009 | Narration
+msgid "A thousand years of humanoid history- elves, swarves, humans and more- flash behind your eyes."
+msgstr "Před očima se ti promítne tisíce let humanoidní historie – elfů, Trpaslíků, lidí a dalších."
+
+#. DLG_NAUT_001_LA | Lae zel
+msgid "Abomination. this is your end."
+msgstr "Zrůdo, tohle je tvůj konec."
+
+#. NAR_NAUT_010 | Narration
+msgid "Your head throbs and your skin tingles. Visions rush past:a dragon wing a silver sword-and a flash of your face seen through the strange womans eyes."
+msgstr "Hlava ti třeští a kůže brní. Před očima se mihnou vidiny: dračí křídla, stříbrný meč – a záblesk tvé vlastní tváře, viděný skrze oči té neznámé ženy."
+
+#. DLG_NAUT_002_LA  | Lae zel
+msgid "My head. what is this... ngh."
+msgstr "Moje hlava. Co to je... ngh."
+
+#. DLG_NAUT_003_LA  | Lae zel
+msgid "Tskva. You are no thrall-Vlaakith blesses me this day! Together we might survive."
+msgstr "Tskva. Ty nejsi žádný otrok – Vlaakith mi žehnej! Společně bychom mohli přežít."
+
+#. DLG_NAUT_003_PCHO | Player choice
+msgid "We need to figure out where we are."
+msgstr "Musíme zjistit, kde jsme."
+
+#. DLG_NAUT_004_LA  | Lae zel
+msgid "We can do nothing until we escape-that must be our priority."
+msgstr "Nemůžeme dělat nic, dokud neunikneme – to musí být naše priorita."
+
+#. DLG_NAUT_005_LA  | Lae zel
+msgid "First, we exterminate the imps, Then we find the helm and take control of the ship."
+msgstr "Nejprve vyhladíme ty impy, pak najdeme kormidlo a převezmeme kontrolu nad lodí."
+
+#. DLG_NAUT_006_LA  | Lae zel
+msgid "We will adrdress the matter of a cure for this infection once we reach the Material Plane."
+msgstr "Záležitost léčby na tuto infekci vyřešíme, jakmile dosáhneme Materiální sféry."
+
+#. DLG_NAUT_007_LA  | Lae zel
+msgid "Htaka!."
+msgstr "Htaka!."
+
+#. UI_NAUT_008 | UI
+msgid "Move to"
+msgstr "Přesunout se"
+
+#. UI_NAUT_009 | UI
+msgid "Main Hand Attack"
+msgstr "Útok primární zbraní"
+
+#. UI_NAUT_010 | UI
+msgid "End turn"
+msgstr "Konec kola"
+
+#. UI_NAUT_011 | UI
+msgid "Your turn"
+msgstr "Tvé kolo"
+
+#. DLG_NAUT_008_LA  | Lae zel
+msgid "You prove surprisingly adequate in the battle.."
+msgstr "V boji si vedeš překvapivě obstojně."
+
+#. DLG_NAUT_009_LA  | Lae zel
+msgid "Now-to he helm."
+msgstr "Ale teď ke kormidlu."
+
+#. DLG_NAUT_004_PCHA | Player character
+msgid "The ship wont be able to take another dragon attack. We need to get out before its too late."
+msgstr "Loď už další dračí útok nevydrží. Musíme se odsud dostat, než bude příliš pozdě."
+
+#. DLG_NAUT_010_LA  | Lae zel
+msgid "Istik-back! Touch nothing without knowing its purpose."
+msgstr "Zpátky istiku! Nesahej na nic čemu nerozumíš."
+
+#. DLG_NAUT_001_SH | Shadowhearth
+msgid "Damm it!."
+msgstr "Sakra!"
+
+#. DLG_NAUT_002_SH | Shadowhearth
+msgid "You! Get me out of this damm thing!."
+msgstr "Ty! Dostaň mě z téhle zatracené věci!."
+
+#. DLG_NAUT_011_LA  | Lae zel
+msgid "We have no time for strugglers."
+msgstr "Nemáme čas na slabé kusy."
+
+#. DLG_NAUT_004_PCHO | Player choice
+msgid "Ill go look around- there must be some way to get this thing open."
+msgstr "Jdu se porozhlédnout – musí existovat nějaký způsob, jak tu věc otevřít."
+
+#. DLG_NAUT_003_SH | Shadowhearth
+msgid "Try that contraption just nest to the pod-they did something to it when they sealed me in."
+msgstr "Zkus ten aparát hned vedle modulu – něco s ním udělali, když mě tu zavřeli."
+
+#. DLG_NAUT_004_SH | Shadowhearth
+msgid "Hurry! Please!."
+msgstr "Rychle! Prosím!."
+
+#. NAR_NAUT_011 | Narration
+msgid "The console appears dormant."
+msgstr "Konzole se zdá být neaktivní."
+
+#. DLG_NAUT_005_PCHO | Player choice
+msgid "Theres a socket in the console, shaped like the rune you found. insert it."
+msgstr "V konzoli je otvor ve tvaru runy, kterou jsi našel. Vlož ji."
+
+#. NAR_NAUT_012 | Narration
+msgid "The console hums to life."
+msgstr "Konzole s hučením ožila."
+
+#. DLG_NAUT_006_PCHO | Player choice
+msgid "Place your hand on the console."
+msgstr "Přilož ruku na konzoli."
+
+#. NAR_NAUT_013 | Narration
+msgid "Suddenly you feel a hideous squirming in your head. the parasite."
+msgstr "Náhle v hlavě ucítíš odporné svíjení. Ten parazit."
+
+#. NAR_NAUT_014 | Narration
+msgid "Then discomfort fades, and another sensation washes over you. Conection. Authority."
+msgstr "Poté nepříjemný pocit ustoupí a zaplaví tě jiný vjem. Spojení. Autorita."
+
+#. DLG_NAUT_007_PCHO | Player choice
+msgid "Will the pod to open."
+msgstr "Přikaž modulu, ať se otevře."
+
+#. NAR_NAUT_015 | Narration
+msgid "You feel the biomechanical brain of the console process your comand and yield to it."
+msgstr "Cítíš, jak biomechanický mozek konzole zpracovává tvůj příkaz a podvoluje se mu."
+
+#. NAR_NAUT_016 | Narration
+msgid "A shiver runs across your mind... You feel sated."
+msgstr "Myslí ti přeběhne mráz... Cítíš se nasycen."
+
+#. DLG_NAUT_005_SH | Shadowhearth
+msgid "At last... thought i was done for."
+msgstr "Konečně... Myslela jsme, že je se mnou konec."
+
+#. DLG_NAUT_006_SH | Shadowhearth
+msgid "I thought that damn thing was going to be my coffin. Thank you-"
+msgstr "Myslela jsem, že ta zatracená věc bude moje rakev. Děkuji-"
+
+#. NAR_NAUT_017 | Narration
+msgid "Your mind lurches into her thoughts. Her gratitude is mixed with warines-because you have a gith with you."
+msgstr "Tvá mysl se prudce ponoří do jejích myšlenek. Její vděčnost se mísí s obezřetností – protože máš s sebou githyanku."
+
+#. DLG_NAUT_007_SH | Shadowhearth
+msgid "You keep dangerouse company."
+msgstr "Vybíráš si nebezpečnou společnost."
+
+#. DLG_NAUT_008_PCHO | Player choice
+msgid "Got a problem with githyanki?"
+msgstr "Máš problém s githyanki?"
+
+#. DLG_NAUT_008_SH | Shadowhearth
+msgid "More that gith have a problem with everyone else. But theres more important matters right now-survival."
+msgstr "Spíš mají githové problém se všemi ostatními. Ale teď jsou tu důležitější věci – přežití."
+
+#. DLG_NAUT_009_SH | Shadowhearth
+msgid "let me come with you. We can get out off this ship, and watch each others backs along the way."
+msgstr "Nech mě jít s tebou. Můžeme se z téhle lodi dostat a po cestě si navzájem krýt záda."
+
+#. DLG_NAUT_09_PCHO | Player choice
+msgid "All right then, lets get going. im Tav."
+msgstr "Tak dobře, pojďme. Jsem Tav."
+
+#. DLG_NAUT_010_SH | Shadowhearth
+msgid "Shadowhearth. One moment...."
+msgstr "Shadowhearth. malý moment..."
+
+#. DLG_NAUT_010_PCHO | Player choice
+msgid "Come on, time to go."
+msgstr "Pojď, je čas jít."
+
+#. DLG_NAUT_012_LA | Lae zel
+msgid "Finally. Let us meka for the helm-weve wasted enough time already."
+msgstr "Konečně. Vyrazme ke kormidlu – už tak jsme ztratili dost času."
+
+#. DLG_NAUT_011_SH | Shadowhearth
+msgid "Shes right. Lead on."
+msgstr "Má pravdu. Jdi první."
+
+#. DLG_NAUT_013_LA  | Lae zel
+msgid "We are nearing the helm. Once inside, do as i say."
+msgstr "Blížíme se ke kormidlu. Jakmile budeme uvnitř, dělejte co říkám."
+
+#. DLG_NAUT_012_SH | Shadowhearth
+msgid "Who put you in charge? ill trust my own judgement."
+msgstr "Kdo říkal že rozhoduješ ty? Budu se řídit vlastním úsudkem."
+
+#. DLG_NAUT_014_LA  | Lae zel
+msgid "Kainyank."
+msgstr "Kainyank."
+
+#. DLG_NAUT_001 | Mind Flayer
+msgid "Thrall. Connect the nerves of the transponder. We must escape. Now."
+msgstr "Otroku. Propoj nervy transpondéru. Musíme uniknout. Hned."
+
+#. DLG_NAUT_015_LA  | Lae zel
+msgid "Do it. We will deal with the ghaik after we escape."
+msgstr "Udělěj to. s Ghaiky se vypořádáme, až unikneme."
+
+#. NAR_NAUT_018 | Narration
+msgid "The helms alien transponder-youve made it in time."
+msgstr "Řídící mimozemský transpondér– stihl jsi to včas."
