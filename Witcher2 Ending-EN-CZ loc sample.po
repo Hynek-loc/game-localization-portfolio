@@ -1,0 +1,184 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Witcher 2 Ending Dialogue – Portfolio Sample\n"
+"POT-Creation-Date: 2026-01-08 00:00+0000\n"
+"PO-Revision-Date: 2026-01-09 11:20+0100\n"
+"Last-Translator: Hynek Dlouhý\n"
+"Language-Team: Czech\n"
+"Language: cs\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.8\n"
+
+#. DLG_W2_001_LET | Letho
+msgid "Took you a while..."
+msgstr "Dal sis načas..."
+
+#. DLG_W2_002_GER | Geralt
+msgid "Is that bauble from Síle's megascope?"
+msgstr "To je krystal ze Sílina megaskopu?"
+
+#. DLG_W2_003_LET | Letho
+msgid "Mhm. My final prank... I switched the diamonds. The one in the megascope has a flaw - minute, but just large enough to warp the teleport. The Emperor's magic theorists assured me the effect would be spectacular."
+msgstr "Mhm. Můj poslední žert…. Vyměnil jsem diamanty. Ten v megaskopu má nepatrnou vadu, ale dost velkou na to poškodit teleport. Císařovi magičtí teoretici mě ujistili že efekt bude velkolepý."
+
+#. DLG_W2_004_GER | Geralt (If Síle lived)
+msgid "I let her escape."
+msgstr "Nechal jsme ji utéct."
+
+#. DLG_W2_005_LET | Letho
+msgid "You're heartless. You've no idea what the royal witch-hunters have in store for her. A lot of pain for a long time..."
+msgstr "Nemáš srdce. Nemáš ponětí co pro ní mají královští lovci čarodějnic připravené. Dlouhá léta plná bolesti..."
+
+#. DLG_W2_006_GER | Geralt
+msgid "I don't doubt it. So, ready to lay your cards out on the table?"
+msgstr "O tom nepochybuji. Takže, připraven vyložit karty na stůl?"
+
+#. DLG_W2_007_GER | Geralt (If Síle died)
+msgid "Oh, it was."
+msgstr "Oh, to byl."
+
+#. DLG_W2_008_LET | Letho
+msgid "Good. Had she lived, she would've suffered more intensely and much longer. She helped me quite a bit, through naiveté and pride. I would not have gotten far without her."
+msgstr "Dobře. Kdyby přežila, trpěla by intenzivněji a mnohem déle. Dost mi pomohla, svou naivitou a pýchou. Bez ní bych se daleko nedostal."
+
+#. DLG_W2_009_GER | Geralt
+msgid "Hm. So, ready to lay your cards out on the table?"
+msgstr "Hm, takže,  připraven vyložit karty na stůl?"
+
+#. DLG_W2_010_LET | Letho
+msgid "No matter the game, there comes a point when all the players need to show their cards. I love that moment. But first..."
+msgstr "Ať už jde o jakoukoliv hru, vždy přijde čas kdy musí všichni hráči ukázat své karty. Ten moment miluji. Ale nejdřív..."
+
+#. DLG_W2_011_LET | Letho
+msgid "Vodka?"
+msgstr "Vodku?"
+
+#. DLG_W2_012_GER | Geralt (Choice – Refuse)
+msgid "I only drink with friends."
+msgstr "Já piju jen s přáteli."
+
+#. DLG_W2_013_LET | Letho
+msgid "What about old acquaintances? Heh..."
+msgstr "A co staří známí? Heh..."
+
+#. DLG_W2_014_GER | Geralt (Choice – Accept)
+msgid "I suppose my throat's a little dry."
+msgstr "Možná mám trochu vyschlo v krku."
+
+#. DLG_W2_015_LET | Letho
+msgid "In that case, let's drink to old friendships."
+msgstr "V tom případě si připijme na staré přátelství."
+
+#. DLG_W2_016_LET | Letho
+msgid "Recovered your memory yet?"
+msgstr "Už se ti vrátila paměť?"
+
+#. DLG_W2_017_GER | Geralt
+msgid "Not entirely."
+msgstr "Ne úplně."
+
+#. DLG_W2_018_LET | Letho
+msgid "Remember how we first met?"
+msgstr "Pamatuješ si, jak jsme se potkali poprvé?"
+
+#. DLG_W2_019_GER | Geralt
+msgid "Yeah. I saved your life. Couldn't think of a nicer way to pay me back?"
+msgstr "Jo. Zachránil jsem ti život. Nenapadl tě lepší způsob, jak se mi odvděčit?"
+
+#. DLG_W2_020_LET | Letho
+msgid "Frankly, I couldn't. I mean, taking care of another man's woman... Yennefer. I can't fathom what you saw in her, but I suppose there's no accounting for taste..."
+msgstr "Upřímně, nemohl. Myslím tím, jak jsem se staral o ženu někoho jinýho... Yennefer. Nechápu, co jsi na ní viděl, ale proti gustu žádný dišputát..."
+
+#. DLG_W2_021_LET | Letho
+msgid "Back with me, friend? Got the feeling you left for a minute..."
+msgstr "Jsi zpátky, příteli? Měl jsem pocit, že jsi na chvíli mimo..."
+
+#. DLG_W2_022_GER | Geralt
+msgid "Memories... I remember the Hanged Man's Tree and the Wild Hunt. I remember the exchange - me for Yennefer."
+msgstr "Vzpomínky... Pamatuju si Strom Oběšenců a Divoký hon. Pamatuju si tu výměnu-já za Yennefer."
+
+#. DLG_W2_023_LET | Letho
+msgid "So, cards out on the table. Unless you chased me all that way just to kill me..."
+msgstr "Takže, karty jsou na stole, Ledaže jsi mě hnal takovou dálku jen proto, abys mě zabil..."
+
+#. DLG_W2_024_GER | Geralt (Choice)
+msgid "I chased you for lots of reasons. You owe me - some explanations, to start with."
+msgstr "Naháněl jsem tě z mnoha důvodů. Dlužíš mi vysvětlení-pro začátek."
+
+#. DLG_W2_025_LET | Letho
+msgid "Let's say I do."
+msgstr "Řekněmě že ano."
+
+#. DLG_W2_026_GER | Geralt (Choice)
+msgid "Why are you still here? Why did you wait for me this time?"
+msgstr "Proč si stále tady? Proč si na mě tentokrát čekal?"
+
+#. DLG_W2_027_LET | Letho
+msgid "I knew you wouldn't give up, I knew you'd pursue me. And I don't aim to hide anymore."
+msgstr "Věděl jsem, že to nevzdáš, že mě budeš pronásledovat. A já už se nehodlám dál schovávat."
+
+#. DLG_W2_028_LET | Letho
+msgid "This story ends here and now."
+msgstr "Tenhle příběh končí teď a tady."
+
+#. DLG_W2_029_GER | Geralt (Choice)
+msgid "Tell me about Yennefer. What happened after I departed?"
+msgstr "Řekni mi o Yennefer. Co se stalo, když jsem odjel?"
+
+#. DLG_W2_030_LET | Letho
+msgid "She was feverish for several days, delirious, in agony. Somehow she recovered, but she had amnesia. Like you."
+msgstr "Několik dní měla horečku, blouznila a trpěla. Nakonec se z toho dostala, ale ztratila paměť. Jako ty."
+
+#. DLG_W2_031_GER | Geralt
+msgid "What then?"
+msgstr "Co bylo dál?"
+
+#. DLG_W2_032_LET | Letho
+msgid "We wandered the Empire. Everywhere we went, she got in trouble and we pulled her out."
+msgstr "Toulali jsme se po Impériu. Dostala se do maléru kamkoliv jsme přišli a my ji z něj tahali ven."
+
+#. DLG_W2_033_LET | Letho
+msgid "Then the Imperial secret police captured us."
+msgstr "Pak nás zajala Imperiální tajná policie."
+
+#. DLG_W2_034_GER | Geralt
+msgid "Imperial secret police?"
+msgstr "Imperiální tajná policie?"
+
+#. DLG_W2_035_LET | Letho
+msgid "That's how I met Vattier de Ridaux. And the Emperor himself."
+msgstr "Tak jsem poznal Vattiera de Rideaux. A samotného císaře."
+
+#. DLG_W2_036_GER | Geralt
+msgid "What happened to Yennefer?"
+msgstr "Co bylo s Yennefer?"
+
+#. DLG_W2_037_LET | Letho
+msgid "I never saw her again. The Emperor sent me north. She stayed behind."
+msgstr "Už jsem jí nikdy neviděl. Císař mě poslal na sever. Ona zůstala."
+
+#. DLG_W2_038_GER | Geralt
+msgid "So she's in the Empire."
+msgstr "Takže je v Impériu."
+
+#. DLG_W2_039_LET | Letho
+msgid "She was when I left."
+msgstr "Byla když jsem odešel."
+
+#. DLG_W2_040_GER | Geralt (Choice – Ending)
+msgid "I've learned all I wanted to know. Your death won't change a thing. Go where you will."
+msgstr "Už vím vše co jsem vědět chtěl. Tvoje smrt nic nezmění. Jdi si kam chceš."
+
+#. DLG_W2_041_LET | Letho
+msgid "Just like that? No threats? No words of wisdom?"
+msgstr "Jen tak? Žádné vyhrožování? Žádná moudra na cestu?"
+
+#. DLG_W2_042_GER | Geralt
+msgid "You going or not?"
+msgstr "Tak jdeš nebo ne?"
+
+#. DLG_W2_043_LET | Letho
+msgid "Huh. Farewell, Geralt."
+msgstr "Huh. Sbohem, Geralte."
