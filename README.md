@@ -16,3 +16,18 @@ The content is manually selected and partially transcribed to demonstrate:
 
 This is not a mod, not a full localization, and not intended for distribution.
 All rights belong to their respective owners.
+
+## The Witcher 2 – Ending Dialogue (EN → CZ)
+
+- Game: The Witcher 2
+- Developer: CD Projekt Red
+- Language pair: English → Czech
+- Tool: Poedit (.po format)
+
+This sample focuses on:
+- character voice (Geralt, Letho)
+- emotionally charged dialogue
+- branching player choices
+- natural Czech dialogue flow
+
+This is a fan-made localization sample created for portfolio purposes only.
