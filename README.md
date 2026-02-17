@@ -32,5 +32,5 @@ This sample focuses on:
 
 This is a fan-made localization sample created for portfolio purposes only.
 
-# Official-localization
+# Official localization
 Czech localization completed for indie titles: https://store.steampowered.com/app/3124230/Jackal/
