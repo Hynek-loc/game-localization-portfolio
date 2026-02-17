@@ -31,3 +31,5 @@ This sample focuses on:
 - natural Czech dialogue flow
 
 This is a fan-made localization sample created for portfolio purposes only.
+
+Czech localization completed for indie titles: https://store.steampowered.com/app/3124230/Jackal/
