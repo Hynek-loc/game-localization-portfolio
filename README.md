@@ -1,3 +1,6 @@
+# Official localization
+Czech localization completed for indie titles: https://store.steampowered.com/app/3124230/Jackal/
+
 # game-localization-portfolio
  BG3 Nautiloid – EN → CZ Localization Sample
 This repository contains an unofficial localization sample created for
@@ -34,6 +37,3 @@ This is a fan-made localization sample created for portfolio purposes only.
 
 # Volunteer translations
 klei.com/community-translations
-
-# Official localization
-Czech localization completed for indie titles: https://store.steampowered.com/app/3124230/Jackal/
